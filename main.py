@@ -8,8 +8,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
+import time
+
 import matplotlib.pyplot as plt
 import pandas as pd
+from token import OP
 
 # set Chrome options to run in headless mode
 def get_driver():
@@ -27,9 +30,24 @@ data_sci = []
 software_eng = []
 ai = []
 
+def click_load_more(driver):
+    try:
+        load_more_button = "button[data-test='load-more']"
+        button = driver.find_element(By.CSS_SELECTOR, load_more_button)
+
+        if button is not None:
+            button.click()
+    except:
+       pass
+
 # for glassdor
 def glassdoor(driver, data):
+    for _ in range(10):
+        click_load_more(driver)
+        time.sleep(2)
+
     elements = driver.find_elements(By.CSS_SELECTOR, "li.JobsList_jobListItem__wjTHv")
+
     for e in elements:
         try:
             salary = e.find_element(By.CSS_SELECTOR, ".JobCard_salaryEstimate__QpbTW").text
@@ -91,9 +109,9 @@ df_data_sci = pd.DataFrame(data_sci, columns=data_col)
 df_ai = pd.DataFrame(ai, columns=data_col)
 df_software = pd.DataFrame(software_eng, columns=data_col)
 
-print('software eng jobs samples: ', len(df_software))
-print('data science jobs samples: ', len(df_data_sci))
-print('AI jobs samples', len(df_ai))
+full = pd.concat([df_data_sci, df_ai, df_software], axis=0)
+
+full.to_csv('jobs.csv', index=False)
 
 def train_linear_regression(X, y, title):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
