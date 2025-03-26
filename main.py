@@ -12,9 +12,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # set Chrome options to run in headless mode
-def get_driver(): 
+def get_driver():
     options = Options()
-    options.add_argument("--headless=new")
 
     return webdriver.Chrome(options=options)
 
@@ -32,7 +31,7 @@ ai = []
 def glassdoor(driver, data):
     elements = driver.find_elements(By.CSS_SELECTOR, "li.JobsList_jobListItem__wjTHv")
     for e in elements:
-        try: 
+        try:
             salary = e.find_element(By.CSS_SELECTOR, ".JobCard_salaryEstimate__QpbTW").text
             loc = e.find_element(By.CSS_SELECTOR, ".JobCard_location__Ds1fM").text
             comp = e.find_element(By.CSS_SELECTOR, ".EmployerProfile_compactEmployerName__9MGcV").text
@@ -130,12 +129,16 @@ def train_logistic_regression(X, y, title):
     plt.show()
 
 
+
+print(df_software)
+print(df_data_sci)
+print(df_ai)
 # for software enginner use linear regression model to predict salary
 
 X = df_software.drop('salary', axis=1)
 y = df_software['salary']
 
-# use lable encoder to encode the company and location 
+# use lable encoder to encode the company and location
 le = LabelEncoder()
 X['company'] = le.fit_transform(X['company'])
 X['location'] = le.fit_transform(X['location'])
@@ -147,7 +150,7 @@ train_logistic_regression(X, y, 'Software Engineer Salary Prediction')
 X = df_data_sci.drop('salary', axis=1)
 y = df_data_sci['salary']
 
-# use lable encoder to encode the company and location 
+# use lable encoder to encode the company and location
 le = LabelEncoder()
 X['company'] = le.fit_transform(X['company'])
 X['location'] = le.fit_transform(X['location'])
@@ -159,7 +162,7 @@ train_logistic_regression(X, y, 'Data Scientist Salary Prediction')
 X = df_ai.drop('salary', axis=1)
 y = df_ai['salary']
 
-# use lable encoder to encode the company and location 
+# use lable encoder to encode the company and location
 le = LabelEncoder()
 X['company'] = le.fit_transform(X['company'])
 X['location'] = le.fit_transform(X['location'])
