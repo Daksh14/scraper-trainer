@@ -4,292 +4,655 @@ salary,company,location
 62107,US Government,Multiple Locations
 49960,US Government,Multiple Locations
 32114,US Government,Multiple Locations
+68473,US Government,"Syracuse, New York"
 74441,US Government,Multiple Locations
 88621,US Government,Multiple Locations
 88621,US Government,Multiple Locations
 105383,US Government,Multiple Locations
-39746,US Government,"Buffalo, New York Buffalo, New York"
+39746,US Government,"Buffalo, New York"
 88621,US Government,Multiple Locations
 62107,US Government,Multiple Locations
 49960,US Government,Multiple Locations
 47813,US Government,May be filled in various FAA duty locations
 62107,US Government,Multiple Locations
-51332,US Government,Multiple Locations
 47813,US Government,May be filled in various FAA duty locations
 31083,US Government,May be filled in various FAA duty locations
 54557,US Government,Multiple Locations
-78044,US Government,"Bath, New York Bath, New York"
 51332,US Government,Multiple Locations
+78044,US Government,"Bath, New York"
 47813,US Government,May be filled in various FAA duty locations
 47813,US Government,May be filled in various FAA duty locations
-57594,US Government,"West Point, New York West Point, New York"
-86000,ABOUT HEALTHCARE INC,"Saint Paul, MN"
-96000,Paradise Architectural PANELS & STEEL,"Portland, OR"
-50000,Demandwhiz Solutions,Remote
-60000,LGC Biosearch Technologies,"Alexandria, MN"
+51332,US Government,Multiple Locations
+110000,Wiliot,"San Diego, CA"
+130000,Wiliot,"San Francisco, CA"
+89000,World Bank Group,"Washington, DC"
+99000,The Columbia Group,"Washington, DC"
+102000,Wiliot,"Plano, TX"
+94000,"Interclypse, Inc.","Reston, VA"
+81000,Cone Health,"Greensboro, NC"
+75000,Lowe's,"Charlotte, NC"
+105000,Leidos,"Aurora, CO"
 90000,Nexa,"New York, NY"
-91000,Micron,"Boise, ID"
-91000,Micron,"Folsom, CA"
-83000,Halvik,"Warner Robins, GA"
-110000,Elder Research,"Washington, DC"
-91000,Micron,"Boise, ID"
-85000,Property Leads,Remote
-126000,FanDuel,"New York, NY"
-109000,Shipt,Remote
-80000,GM Financial,"Fort Worth, TX"
-130000,National Grid,"Hicksville, NY"
-71000,"Mayvin, Inc.","Alexandria, VA"
-147000,Avanade,"Chicago, IL"
-106000,Soaren Management LLC,"Phoenix, AZ"
-130000,McDonald's Corporation,"Chicago, IL"
-111000,Audible,"Newark, NJ"
-126000,FanDuel,"Atlanta, GA"
-79000,Arity,Remote
-85000,American Express Global Business Travel,"Chicago, IL"
-140000,thatgamecompany,California
-135000,GAF Materials Corporation,Remote
-112000,Macquarie Group Limited,"Houston, TX"
-71000,University of Nebraska System,"Lincoln, NE"
-130000,National Grid,"Waltham, MA"
-71000,Lilly,"San Diego, CA"
-102000,FanDuel,"Jersey City, NJ"
-85000,Personify Health,Remote
-82000,"Butler/Till, Inc.",Remote
-85000,CPC Technologies LLC,"Kennesaw, GA"
-114000,USAA,"San Antonio, TX"
-80000,Cone Health,"Greensboro, NC"
-95000,North Carolina State University,"Raleigh, NC"
-180000,Machinify,California
-124000,Worldpay,"Cincinnati, OH"
-140000,Muck Rack,Remote
-85000,Astrix Technology Group,"Bethesda, MD"
-55000,MetroStar,"Quantico, VA"
-123000,Celestar Corporation,"Tampa, FL"
-78000,Sawdey Solution Services,"Dayton, OH"
-80000,Cleveland Cavaliers,"Cleveland, OH"
-89000,Noblis,"Chantilly, VA"
-110000,Boston Consulting Group,"Manhattan Beach, CA"
-111000,Roche,"Carlsbad, CA"
-119000,Imprivata,"Chicago, IL"
-88000,Heartland Consulting,"Washington, DC"
-78000,iBusiness Funding,"Fort Lauderdale, FL"
-120000,Clear Demand,Remote
-50000,Kelly,"Juncos, PR"
-160000,Confidential,"Los Angeles, CA"
-99000,"Butler/Till, Inc.",Remote
-86000,"Signature Science, LLC","Egg Harbor Township, NJ"
-107000,Verizon,"Basking Ridge, NJ"
-132000,Visa,"Atlanta, GA"
-158000,Waymo,"Mountain View, CA"
-69000,MD Anderson Cancer Center,"Houston, TX"
-158000,Waymo,"San Francisco, CA"
-94000,BNSF Railway,Remote
-79000,Morningstar,"Chicago, IL"
-92000,Software Bloc,"Plano, TX"
-150000,PMAT,"San Diego, CA"
-97000,Blue Cross and Blue Shield of North Carolina,North Carolina
-123000,MAPFRE,"Boston, MA"
-89000,Humana,Remote
-102000,Regions,"Birmingham, AL"
-120000,Voyager Technologies - Defense and National Security,"San Diego, CA"
+150000,Ginger Labs,"San Francisco, CA"
+170000,Suno,Remote
+96000,"Interclypse, Inc.","Annapolis Junction, MD"
+105000,Valve Software,"Bellevue, WA"
+87000,"Interclypse, Inc.","San Antonio, TX"
+170000,Suno,"New York, NY"
+137000,Salesforce,"San Francisco, CA"
 135000,Bumble Inc.,"New York, NY"
-64000,The University of Chicago,"Chicago, IL"
+165000,DigitalOcean,Remote
+95000,One Park Financial,"Plano, TX"
+89000,Noblis,"Chantilly, VA"
+88000,CARFAX,"Columbia, MO"
+99000,Federal Bureau of Investigation,United States
+80000,Black Eagle Defense,"Augusta, GA"
+110000,Verikai Inc.,California
+154000,Stitch Fix,Remote
+180000,Machinify,California
+126000,Personify Health,Remote
+80000,GM Financial,"Fort Worth, TX"
+160000,Arine,Remote
+108000,Horizon Blue Cross Blue Shield of New Jersey,"Newark, NJ"
+74000,Unified,"San Antonio, TX"
+109000,Shipt,Remote
+110000,Tista Science and Technology Corporation,Remote
+170000,Suno,"Boston, MA"
+116000,National Grid,"Waltham, MA"
+76000,Cooper Standard,"Livonia, MI"
+100000,Property Leads,Remote
+120000,Clear Demand,Remote
+140000,Muck Rack,Remote
+130000,National Grid,"Hicksville, NY"
+80000,OpenDataJobs,"Washington, DC"
+110000,Mi-Case,Remote
+156000,Roku,"Austin, TX"
+97000,Blue Cross and Blue Shield of North Carolina,North Carolina
+90000,LendingTree,"Charlotte, NC"
+112000,Macquarie Group Limited,"Houston, TX"
+100000,Bitus Labs,"Irvine, CA"
+70000,University of California Santa Barbara,"Santa Barbara, CA"
+93000,The Energy Authority Inc,"Jacksonville, FL"
+119000,RealmOne,Maryland
+90000,Solytics Partners LLC,United States
+71000,"Mayvin, Inc.","Alexandria, VA"
+161000,Included Health,Remote
+135000,Confidential - to be discussed during interview,"Austin, TX"
+80000,Biointellisense,Remote
+140000,thatgamecompany,California
+55000,MetroStar,"Quantico, VA"
+166000,Ramp Financial,"New York, NY"
+135000,Foursquare,"Seattle, WA"
+79000,Morningstar,"Chicago, IL"
+126000,Salesforce,"San Francisco, CA"
+96000,Glassdoor,Remote
+175000,StubHub,"Los Angeles, CA"
+74000,Credit Human Federal Credit Union,"New Orleans, LA"
+60000,LGC Biosearch Technologies,"Alexandria, MN"
+164000,Wealthfront,"Palo Alto, CA"
+76000,University of California Santa Barbara,"Santa Barbara, CA"
+68000,FedEx Dataworks,"Memphis, TN"
+130000,McDonald's Corporation,"Chicago, IL"
+120000,Built Technologies,Remote
+120000,The Brite Group,"Herndon, VA"
+150000,UNITY Systems,Connecticut
+143000,USAA,"Plano, TX"
+85000,Booz Allen,"Annapolis Junction, MD"
+126000,Spotify,"New York, NY"
+105000,Bank of America,"New York, NY"
+122000,Saint Gobain,"Wilmington, MA"
+234000,Datadog,"New York, NY"
+90000,UVA Health,"Charlottesville, VA"
+75000,KesarWeb,"Iowa, LA"
+80000,Radancy,Remote
+87000,Cox Communications,"Atlanta, GA"
+140000,Edward Jones,United States
+140000,Edward Jones,"Saint Louis, MO"
+120000,DIGITAL MEDIA SOLUTIONS,"Denver, CO"
+85000,Pinnacle Actuarial Resources Inc,United States
+98000,Microsoft,United States
+85000,Yale University,"New Haven, CT"
+142000,Earnest,"San Francisco, CA"
+150000,ActioNet,"San Diego, CA"
+111000,Audible,"Newark, NJ"
+89000,Noblis,"Chantilly, VA"
+105000,Leidos,"Aurora, CO"
+99000,Federal Bureau of Investigation,United States
+89000,Reliance Global Services,"South Plainfield, NJ"
+90000,Health Intelligence company LLC,United States
+116000,National Grid,"Waltham, MA"
+100000,Cohere Health,"Boston, MA"
+118000,The Energy Authority Inc,"Bellevue, WA"
+101000,Chubb,"Jersey City, NJ"
+142000,Humana,Remote
+136000,ID.me,"McLean, VA"
+133000,Mobility USA,"Lowell, MA"
+102000,Caterpillar,"Mossville, IL"
+85000,"Southern Glazer’s Wine and Spirits, LLC","Miramar, FL"
+90000,Innova IT Services LLC,Arizona
+164000,Wealthfront,"Palo Alto, CA"
+74000,PECO,"Philadelphia, PA"
+160000,Confidential,"Los Angeles, CA"
+101000,RELX,"Alpharetta, GA"
+115000,Disney,"Burbank, CA"
+126000,RealmOne,Maryland
+136000,Imprivata,"Austin, TX"
+91000,Jerry,"Washington, DC"
+60000,Black Eagle Defense,"Augusta, GA"
+89000,Wind Creek Hospitality,"Atmore, AL"
+165000,DigitalOcean,Remote
+145000,Janus Henderson,"Denver, CO"
+106000,RELX,"Alpharetta, GA"
+124000,Worldpay,"Cincinnati, OH"
+150000,Cognizant,"Dallas, TX"
+74000,Shipt,Alabama
+124000,McKesson,"Richmond, VA"
+100000,Pantheon Data,"Charlotte, NC"
+164000,Pacific Life,"Newport Beach, CA"
+110000,Boston Consulting Group,"Manhattan Beach, CA"
+90000,The Hanover Insurance Group,"Worcester, MA"
+80000,GMR Marketing,"New Berlin, WI"
+92000,WHOOP,"Boston, MA"
+129000,"The Travelers Companies, Inc.","Hartford, CT"
+87000,Caterpillar,"East Peoria, IL"
+95000,Hubbard Construction Company/Vinci Construction USA,"Winter Park, FL"
+125000,Shield Consulting Solutions,"Annapolis Junction, MD"
+70000,The University of Chicago,"Chicago, IL"
+145000,Janus Henderson,"New York, NY"
+85000,"iHeartMedia, Inc.",New York State
+76000,University of California Santa Barbara,"Santa Barbara, CA"
+103000,UCLA Health,"Los Angeles, CA"
+120000,Cohere Health,Remote
+150000,"Affinaquest Technologies, LLC","Scottsdale, AZ"
+97000,National Capitol Contracting LLC,"Bremerton, WA"
+102000,Chubb,"Jersey City, NJ"
+125000,Shield Consulting Solutions,"Annapolis Junction, MD"
+125000,Shield Consulting Solutions,"Annapolis Junction, MD"
+96000,Glassdoor,Remote
+111000,Roche,"Carlsbad, CA"
+115000,"Prime Time Consulting, L.L.C","Aurora, CO"
+119000,RealmOne,Maryland
+119000,RealmOne,Maryland
+124000,McKesson,"Richmond, VA"
+88000,"Partners Consulting, Inc.","Folsom, NJ"
+136000,General Mills,"Minneapolis, MN"
+90000,DW Simpson,"Kingston, NY"
 110000,Towne Park,"Spokane Valley, Spokane, WA"
 118000,Humana,Remote
-91000,Arch Capital Group Ltd.,"Greensboro, NC"
-115000,Disney,"Burbank, CA"
-99000,Federal Bureau of Investigation,United States
-150000,BlueHalo LLC,"Stevensville, MD"
-120000,DIGITAL MEDIA SOLUTIONS,"Denver, CO"
-75000,North Carolina State University,"Raleigh, NC"
-105000,"Amazon Development Center U.S., Inc.","Denver, CO"
-111000,Labcorp,"Burlington, NC"
-115000,Disney,"Santa Monica, CA"
-96000,Caterpillar,"Chicago, IL"
-126000,Salesforce,"San Francisco, CA"
-185000,Amplitude,"San Francisco, CA"
-110000,David Yurman,"New York, NY"
-98000,M&T Bank,"Clanton, AL"
-135000,Confidential - to be discussed during interview,"Austin, TX"
-92000,WHOOP,"Boston, MA"
-150000,Ginger Labs,"San Francisco, CA"
-108000,AllianceBernstein,"Nashville, TN"
-119000,Imprivata,"Waltham, MA"
-88000,CARFAX,"Columbia, MO"
-110000,Boston Consulting Group,"Dallas, TX"
-132000,Oracle,"Seattle, WA"
-92000,The Energy Authority Inc,"Jacksonville, FL"
-110000,Micron,"Boise, ID"
-175000,StubHub,"Los Angeles, CA"
-100000,Gormat,"Augusta, GA"
-135000,WEX Inc.,"Portland, ME"
-98000,Duke University,"Durham, NC"
-90000,Walmart,"Bentonville, AR"
-135000,Disruptive Solutions LLC,"Washington, DC"
-110000,"Prime Time Consulting, L.L.C",Ford Island
-135000,Foursquare,"Seattle, WA"
-121000,Lemonade,Remote
-77000,Northwestern Mutual,"Milwaukee, WI"
-89000,Reliance Global Services,"South Plainfield, NJ"
-80000,Berkley,"Houston, TX"
-100000,Cohere Health,"Boston, MA"
-97000,Booz Allen,"Monterey, CA"
-93000,Central Mutual Insurance Company,"Dublin, OH"
-89000,Noblis,"Chantilly, VA"
-110000,Boston Consulting Group,"Manhattan Beach, CA"
-67000,BNY Mellon,"Pittsburgh, PA"
-96000,Gartner,"Stamford, CT"
-50000,Midea,"Louisville, KY"
-103000,MD Anderson Cancer Center,"Houston, TX"
-158000,Waymo,"Mountain View, CA"
-86000,"ReliaQuest, LLC.","Tampa, FL"
-90000,American Credit Acceptance,"Spartanburg, SC"
-109000,Sanofi,"Waltham, MA"
-139000,Caterpillar,"Chicago, IL"
-103000,MD Anderson Cancer Center,"Houston, TX"
-93000,CPMC LLC,"San Diego, CA"
-120000,JMark Services Inc.,"Suffolk, VA"
-100000,Paramount Networks International,"New York, NY"
-80000,Radancy,Remote
-164000,Wealthfront,"Palo Alto, CA"
-146000,Adobe,"San Jose, CA"
-143000,K&L Gates,"Boston, MA"
-89000,Unum,"Columbia, SC"
-100000,Ibotta,"Denver, CO"
-200000,Newmark,"Chicago, IL"
-136000,TikTok,"Seattle, WA"
-85000,"Southern Glazer’s Wine and Spirits, LLC","Miramar, FL"
-102000,Infosys,"Alpharetta, GA"
-99000,Federal Bureau of Investigation,United States
-110000,PenFed Credit Union,"McLean, VA"
-80000,"Guidewire Software, Inc.","San Mateo, CA"
-82000,Stanford University,"Stanford, CA"
-78000,University of Wisconsin–Madison,"Madison, WI"
-106000,Broadleaf Services Inc,"Manassas, VA"
-119000,Broadcom,"Burlington, MA"
-102000,Texas A&M University,"College Station, TX"
-150000,"Affinaquest Technologies, LLC","Scottsdale, AZ"
-136000,Micron,"Folsom, CA"
-136000,Micron,"Folsom, CA"
-45000,"QRC Group, Inc","Juncos, PR"
-200000,"Prime Time Consulting, L.L.C","Fort Meade, MD"
-105000,Bank of America,"New York, NY"
-101000,Denso,California
-99000,QVine Corporation,"Washington, DC"
-100000,ConstructConnect,"Atlanta, GA"
-98000,Corning,"Charlotte, NC"
-125000,Shield Consulting Solutions,"Annapolis Junction, MD"
-125000,Shield Consulting Solutions,"Annapolis Junction, MD"
-163000,Pinterest,"San Francisco, CA"
-136000,Micron,"Boise, ID"
-89000,Noblis,"Chantilly, VA"
-85000,Astrix Technology Group,"Bethesda, MD"
-122000,CARFAX,"Columbia, MO"
-115000,Disney,"Burbank, CA"
-96000,Elevate Credit Service,"Fort Worth, TX"
-64000,Manitou Group,"West Bend, WI"
-77000,Univision communications inc,"Miami, FL"
-70000,"University of Alabama, Birmingham","Birmingham, AL"
-73000,Donald Danforth Plant Science Center,"Saint Louis, MO"
-119000,Risk Solutions,"Alpharetta, GA"
-175000,Covera Health,"New York, NY"
-103000,Delta Airlines,"Atlanta, GA"
-89000,ConstructConnect,"Atlanta, GA"
-125000,Cortina Solutions,"Colorado Springs, CO"
-154000,Stitch Fix,Remote
-140000,Steampunk,"McLean, VA"
-118000,Auto Club Of Southern Calif,"Costa Mesa, CA"
-60000,Newscape Consulting LLP,"Atlanta, GA"
-100000,Valkyrie Intelligence,"Austin, TX"
-88000,MD Anderson Cancer Center,"Houston, TX"
-136000,Imprivata,"Austin, TX"
-56000,"Prime Time Consulting, L.L.C",Ford Island
-97000,Wells Fargo,"Charlotte, NC"
-180000,January,"New York, NY"
-115000,The Walt Disney Studios,"Burbank, CA"
-84000,UCLA,"Los Angeles, CA"
-82000,"Systems Planning and Analysis, Inc.","Alexandria, VA"
-124000,Worldpay,Massachusetts
-85000,Booz Allen,"Annapolis Junction, MD"
-102000,"Midland Credit Management, Inc.","San Diego, CA"
-110000,Ascend Analytics,"Boulder, CO"
-97000,Home Depot / THD,"Atlanta, GA"
-101000,The University of Chicago,"Chicago, IL"
-125000,Hilco Global,"Northbrook, IL"
-93000,Caterpillar,"Nashville, TN"
-84000,JPMorganChase,"Jacksonville, FL"
-164000,Wealthfront,"Palo Alto, CA"
-90000,Tempus,"Chicago, IL"
-10000,Heluna Health,"Los Angeles, CA"
-85000,Chenega MIOS,Virginia
-85000,Chenega MIOS,Virginia
-100000,Marketing Architects,Minnesota
-102000,Chubb,"Jersey City, NJ"
-102000,Data Xpander,"Irving, TX"
-202000,Toyota Research Institute,"Los Altos, CA"
 131000,Safeway,"Pleasanton, CA"
-62000,Bunge,"Chesterfield, MO"
-110000,Tista Science and Technology Corporation,Remote
-122000,CARFAX,"Columbia, MO"
-129000,"The Travelers Companies, Inc.","Hartford, CT"
-83000,AdroitCo,"Frisco, TX"
-100000,DSD Laboratories Inc.,"Andrews AFB, MD"
+143000,Walmart,"Sunnyvale, CA"
+125000,"Ascension, LLC","Springfield, VA"
+140000,Tala,Remote
+112000,Peraton,"Springfield, VA"
+158000,Waymo,"Mountain View, CA"
+84000,Insurance Institute for Business & Home Safety (IBHS),"Richburg, SC"
+146000,LiveRamp,"Seattle, WA"
+118000,Humana,Remote
+180000,Point72,"Stamford, NY"
+147000,Avanade,"Chicago, IL"
+66000,HarmonyCares,"Independence, KS"
+168000,Remitly,"Seattle, WA"
+158000,Waymo,"Mountain View, CA"
+100000,Great American Insurance Company,"Schaumburg, IL"
+96000,Glassdoor,Remote
+90000,Walmart,"Bentonville, AR"
+92000,Realtor.com Careers,"Austin, TX"
 97000,HORNE LLP,"Ridgeland, MS"
-82000,KOHLS,"Menomonee Falls, WI"
-125000,The GEO Group,"Boca Raton, FL"
-82000,Thoucentric,"Bellville, TX"
-150000,Amazon.com,"Seattle, WA"
-95000,SAP,"Newport Beach, CA"
-100000,Pantheon Data,"Charlotte, NC"
-173000,Barclays,"New York, NY"
-150000,UNITY Systems,Connecticut
-92000,Entergy Corporation,"The Woodlands, TX"
-90000,Optum,"Boston, MA"
-81000,Veterans United Home Loans,"Columbia, MO"
-160000,Confluent,United States
-97000,Wells Fargo,"New York, NY"
-164000,SoFi,"San Francisco, CA"
-173000,Plaid,"San Francisco, CA"
-74000,Shipt,Alabama
-200000,StubHub,"New York, NY"
-200000,StubHub,"New York, NY"
-117000,Superior Court of Orange County,"Orange, CA"
-118000,The Energy Authority Inc,"Bellevue, WA"
-110000,"Odyssey Systems Consulting Group, Ltd.","Colorado Springs, CO"
-110000,Boston Consulting Group,"Manhattan Beach, CA"
-85000,Astrix Technology Group,"Bethesda, MD"
-85000,Booz Allen,"Annapolis Junction, MD"
-180000,Black Eagle Defense,"Fort Meade, MD"
-180000,Black Eagle Defense,"Fort Meade, MD"
-140000,Homeward,"San Francisco, CA"
-140000,Homeward,"San Francisco, CA"
-102000,Caterpillar,"Mossville, IL"
-110000,Verikai Inc.,California
-180000,Black Eagle Defense,"Fort Meade, MD"
-170000,Suno,"Boston, MA"
-159000,PG&E Corporation,"Oakland, CA"
-79000,PacifiCorp,"Portland, OR"
-166000,Tech Intellectuals,"San Francisco, CA"
-170000,Netflix,Remote
-94000,RSC2 INC,"Arlington, VA"
-120000,The Brite Group,"Herndon, VA"
-80000,Comscore,"Reston, VA"
-80000,Biointellisense,Remote
-112000,MongoDB,"New York, NY"
-153000,TikTok,"San Jose, CA"
-100000,Bitus Labs,"Irvine, CA"
+103000,University of California San Francisco,"San Francisco, CA"
 146000,Adobe,"San Jose, CA"
+158000,Waymo,"San Francisco, CA"
+126000,Beacon Talent,Remote
+160000,"Relentless Health, Inc.","Menlo Park, CA"
+129000,Squarespace,"New York, NY"
+187000,Datadog,"New York, NY"
+170000,Netflix,Remote
+142000,Dexcom,"San Diego, CA"
+105000,Leidos,"Hampton, VA"
+155000,BlueHalo LLC,"Annapolis Junction, MD"
+85000,"FreedomRoads, LLC",Texas
+152000,Eon Health,"Denver, CO"
+187000,Robinhood,"Menlo Park, CA"
+124000,Motive,Remote
+89000,Central Mutual Insurance Company,"Van Wert, OH"
+160000,Shield Consulting Solutions,"Annapolis Junction, MD"
+98000,Corning,"Charlotte, NC"
+96000,Paradise Architectural PANELS & STEEL,"Portland, OR"
+150000,Upstart,Remote
+87000,Target,"Minneapolis, MN"
+109000,"ACUITY, A Mutual Insurance Company","Sheboygan, WI"
+48000,New York University,"New York, NY"
+100000,"Weil Group, Inc","Juncos, PR"
+98000,Nestlé Purina,"Saint Louis, MO"
+115000,Disney,"Burbank, CA"
+170000,SureCost,Remote
+101000,Denso,California
+100000,Valkyrie Intelligence,"Austin, TX"
+90000,Walmart,"Bentonville, AR"
+89000,Noblis,"Chantilly, VA"
+85000,Booz Allen,"Annapolis Junction, MD"
+95000,Hubbard Construction Company/Vinci Construction USA,"Winter Park, FL"
+90000,DW Simpson,"Kingston, NY"
+100000,BRMi,"Vienna, VA"
+87000,Enova International,"Chicago, IL"
+119000,Imprivata,"Austin, TX"
+76000,KBR,"Sioux Falls, SD"
+110000,Maverc Technologies,"Arlington, VA"
+77000,"Prime Time Consulting, L.L.C","Fort Meade, MD"
+100000,"Weil Group, Inc","Juncos, PR"
+97000,Booz Allen,"Monterey, CA"
+90000,Amex,"New York, NY"
+90000,"G2 Ops, Inc.","San Diego, CA"
+86000,Ford Motor Company,"Allen Park, MI"
+101000,Verizon,"Irving, TX"
+109000,Mount Sinai,"New York, NY"
+77000,Univision communications inc,"Miami, FL"
+150000,Dropbox,Remote
+200000,EvolutionIQ,"New York, NY"
+142000,"VIZIO, Inc.","New York, NY"
+173000,Plaid,"New York, NY"
+160000,Confluent,United States
+130000,Choice Hotels,"North Bethesda, MD"
+132000,Oracle,"Seattle, WA"
+90000,Hut 8,"Miami, FL"
+109000,Sanofi,"Waltham, MA"
+75000,North Carolina State University,"Raleigh, NC"
+100000,Pointer Technologies,"Annapolis Junction, MD"
+105000,Leidos,"Aurora, CO"
+76000,Booz Allen,"Herndon, VA"
+82000,KOHLS,"Menomonee Falls, WI"
+134000,Kyndryl,Massachusetts
+96000,Caterpillar,"Chicago, IL"
+230000,Strava,"San Francisco, CA"
+125000,Point72,"New York, NY"
+200000,Hawk,Remote
+90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+135000,WEX Inc.,"Portland, ME"
+82000,Home Depot / THD,"Atlanta, GA"
+160000,Shield Consulting Solutions,"Annapolis Junction, MD"
+219000,6sense,"San Francisco, CA"
+140000,Edward Jones,"Tempe, AZ"
+143000,The Scion Group,"Chicago, IL"
+128000,Ingram Micro,"Irvine, CA"
+111000,CVS Health,"Wellesley, MA"
+100000,Ibotta,"Denver, CO"
+85000,American Express Global Business Travel,"Chicago, IL"
+50000,The Swift Group,"Tysons Corner, VA"
+90000,American Credit Acceptance,"Spartanburg, SC"
+110000,Sam's Club,"Bentonville, AR"
+173000,Plaid,"San Francisco, CA"
+139000,Caterpillar,"Chicago, IL"
+83200,DataAnnotation,"Denver, CO"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+855000,Jamco Excavators,"South Hampton, NH"
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+114400,Sygna Solutions,"Austin, TX"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+83200,DataAnnotation,"New Bedford, MA"
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+151154,AbbVie,"Florham Park, NJ"
+170000,Netflix,Remote
+83200,DataAnnotation,"Denver, CO"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+855000,Jamco Excavators,"South Hampton, NH"
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+114400,Sygna Solutions,"Austin, TX"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+83200,DataAnnotation,"New Bedford, MA"
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+151154,AbbVie,"Florham Park, NJ"
+170000,Netflix,Remote
+83200,DataAnnotation,"Denver, CO"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+855000,Jamco Excavators,"South Hampton, NH"
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+114400,Sygna Solutions,"Austin, TX"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+83200,DataAnnotation,"New Bedford, MA"
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+151154,AbbVie,"Florham Park, NJ"
+170000,Netflix,Remote
+83200,DataAnnotation,"Denver, CO"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+855000,Jamco Excavators,"South Hampton, NH"
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+114400,Sygna Solutions,"Austin, TX"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+83200,DataAnnotation,"New Bedford, MA"
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+151154,AbbVie,"Florham Park, NJ"
+170000,Netflix,Remote
+83200,DataAnnotation,"Denver, CO"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+855000,Jamco Excavators,"South Hampton, NH"
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+114400,Sygna Solutions,"Austin, TX"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+83200,DataAnnotation,"New Bedford, MA"
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+151154,AbbVie,"Florham Park, NJ"
+170000,Netflix,Remote
+120000,Qloo,Remote
+115000,Yum! Brands,Remote
+180000,Arine,Remote
+117000,Splunk,Remote
+120000,McKesson,"Richmond, VA"
+91000,PTC THERAPEUTICS,"Warren, NJ"
+100000,Bitus Labs,"Irvine, CA"
+83000,Oakland University,"Rochester, MI"
+154000,Stitch Fix,Remote
+153000,Corelight,"San Francisco, CA"
+130000,Accrete,"New York, NY"
+123000,"Upstart Network, Inc.",Remote
+90000,Summit Knowledge Solutions LLC,"Washington, DC"
+99000,American Sugar Refining,"Crockett, CA"
+103000,ITHAKA,Remote
+100000,Netflix,Remote
+62000,Atlas Roofing Corporation,"Meridian, MS"
+160000,Orbis,United States
+100000,Skyline Products,Remote
+185000,Ramp Financial,United States
+100000,ARiA,"Madison, VA"
+123000,Upstart,"San Francisco, CA"
+175000,Point72,"Stamford, NY"
+130000,Accrete.AI,"New York, NY"
+208000,Apple,"Cupertino, CA"
+360000,Netflix,Remote
+126000,Tiger Analytics,"Malvern, PA"
+250000,"D. E. Shaw & Co., L.P.","New York, NY"
+14000,FedEx Dataworks,Remote
+201000,Altos Labs,"Redwood City, CA"
+140000,Qloo,Remote
+230000,Samsung Electronics,"Mountain View, CA"
+160000,Suno,"Los Angeles, CA"
+176000,Scale AI,"San Francisco, CA"
+90000,PNM Resources,"Albuquerque, NM"
+87000,Zelis,Galaxy
+102000,Adobe,"San Jose, CA"
+90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+100000,Houghton Mifflin Harcourt,United States
+75000,Civicom,"Port Chester, NY"
+80000,University at Buffalo,"Buffalo, NY"
+220000,CTI Consulting,"Redwood City, CA"
+123000,Fujitsu,United States
 80000,"Guidewire Software, Inc.","San Mateo, CA"
-88000,"Coalition, Inc.","San Francisco, CA"
-65000,Safe Harbor Community Services,"Bel Air, MD"
-80000,Reddy Care Physical and Occupational Therapy,"Great Neck, NY"
-88000,"Coalition, Inc.","San Francisco, CA"
-88000,Reddy Care Physical and Occupational Therapy,"Deer Park, NY"
+112000,OfferFit,Remote
+118000,"Criterion Systems, Inc.",Remote
+119000,Best Buy,"Minneapolis, MN"
+100000,Snapchat,"Los Angeles, CA"
+137000,Intuitive Surgical,"Sunnyvale, CA"
+126000,Meta,Remote
+435000,ByteDance,"San Jose, CA"
+162000,Adobe,"San Jose, CA"
+250000,J.K. Barnes,"Chicago, IL"
+158000,Boston Consulting Group,"Boston, MA"
+112000,Allstate,Remote
+117000,NYU Langone Health,"New York, NY"
+143000,Apple,"Cupertino, CA"
+73000,New York University,"New York, NY"
+50000,B2B Factoring & B2B Merchants,"San Juan, PR"
+103000,Capgemini,"New York, NY"
+75000,SMC,"Cape Girardeau, MO"
+73000,Zelis,Galaxy
+121000,Adobe,"San Jose, CA"
+207000,Alpha Hire Inc.,"New York, NY"
+190000,PermitFlow,New York State
+230000,Samsung Electronics,"Mountain View, CA"
+203000,Disney,"Seattle, WA"
+325000,mParticle,"San Francisco, CA"
+264000,Meta,Remote
+143000,Adobe,"San Jose, CA"
+96000,Eccalon LLC,"Hanover, MD"
+413000,ByteDance,"Seattle, WA"
+120000,Compile,"Irving, TX"
+160000,Hive,"San Francisco, CA"
+147000,"Criterion Systems, Inc.",Remote
+13000,Evolv Services LLC,Florida
+170000,Waymo,"Mountain View, CA"
+60000,Expert Radiology,United States
+83000,"Modern Technology Solutions, Inc.","Las Vegas, NV"
+60000,Save Energy Co,"Jacksonville, AL"
+135000,Confidential - to be discussed during interview,"Austin, TX"
+170000,Waymo,Remote
+143000,Apple,"Cupertino, CA"
+143000,Apple,"Cupertino, CA"
+101000,Blizzard Entertainment,"Sherman Oaks, CA"
+190000,Samsung Electronics,"Mountain View, CA"
+120000,Harvard Business Publishing,Remote
+435000,ByteDance,"San Jose, CA"
+140000,"Escalon Services, LLC.","San Francisco, CA"
+90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+150000,Two Dots,"San Francisco, CA"
+100000,Cassida Corporation,"San Diego, CA"
+236000,Motional,"Pittsburgh, PA"
+149000,Leidos,"San Diego, CA"
+158000,Allstate,Remote
+81000,Teleqo Technical Solutions,Remote
+413000,ByteDance,"Seattle, WA"
+140000,Western Governors University,North Carolina
+182000,PlayStation Global,"San Francisco, CA"
+165000,Outdoorsy,"Austin, TX"
+100000,Marketing Architects,Minnesota
+140000,HOPPR,Remote
+103000,Nintendo,"Redmond, WA"
+180000,FERMÀT,"San Francisco, CA"
+90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+94000,"Flagship Pioneering, Inc.","Cambridge, MA"
+65000,Newscape Consulting LLP,Remote
+136000,Relativity Space,"Long Beach, CA"
+190000,PermitFlow,"New York, NY"
+120000,Systimmune,"Redmond, WA"
+150000,Netflix,Remote
+130000,SHI International Corp.,"Austin, TX"
+100000,Fortune Brands,"Deerfield, IL"
+143000,Apple,"Cupertino, CA"
+115000,Auria,United States
+130000,SHI International Corp.,"Austin, TX"
+99000,Federal Bureau of Investigation,United States
+117000,Visa,"Austin, TX"
+48000,Klüber Lubrication NA LP,"Londonderry, NH"
+142000,Meta,"Menlo Park, CA"
+33000,BMA Group,"San Juan, PR"
+116000,Calix,Remote
+100000,Netflix,"Los Gatos, CA"
+177000,Meta,Remote
+190000,EvolutionIQ,"New York, NY"
+100000,"Lumbee Holdings, Inc","Camp Pendleton, CA"
+128000,WALGREENS,"Deerfield, IL"
+181000,Tech Intellectuals,"San Francisco, CA"
+160000,Spekit,"Denver, CO"
+114000,Meta,"Austin, TX"
+150000,Fidelity Investments,"Boston, MA"
+165000,Grafton Biosciences Inc,"South San Francisco, CA"
+124000,The Trade Desk,"New York, NY"
+130000,Perceptyx,Remote
+130000,Annapurna Labs (U.S.) Inc.,"Austin, TX"
+160000,Invoca,Remote
+116000,TikTok,"San Jose, CA"
+131000,LVIS,"Palo Alto, CA"
+120000,Basis Research Institute,"New York, NY"
+96000,Chubb,"Jersey City, NJ"
+129000,GoFundMe,"San Francisco, CA"
+145000,Cohere Health,"Boston, MA"
+222000,PlayStation Global,"San Diego, CA"
+163000,"Perfect Path, LLC, d/b/a Trajector Services",Remote
+80000,Bitus Labs,"Irvine, CA"
+60000,CobbleStone Software,"Lindenwold, NJ"
+99000,Chewy,"Minneapolis, MN"
+188000,HubSpot,"Cambridge, MA"
+150000,Intuit,"Atlanta, GA"
+118000,Connection,"Merrimack, NH"
+101000,JPMorganChase,"Columbus, OH"
+191000,Intuit,"Atlanta, GA"
+215000,GIGATEC,"Annapolis Junction, MD"
+80000,PA Solutions,"Indianapolis, IN"
+60000,PA Solutions,"Guaynabo, PR"
+147000,Honda Research Institute USA,"Mountain View, CA"
+120000,Basis Research Institute,"Cambridge, MA"
+99000,Federal Bureau of Investigation,United States
+110000,Cohere Health,"Boston, MA"
+118000,CarGurus,"Boston, MA"
+195000,Visa,"Foster City, CA"
+85000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+194000,Adobe,"San Jose, CA"
+112000,ByteDance,"San Jose, CA"
+199000,Motional,"Pittsburgh, PA"
+81000,Cone Health,"Greensboro, NC"
+120000,Basis Research Institute,"Cambridge, MA"
+170000,"SubjectWell, Inc",Remote
+100000,Valkyrie Intelligence,"Austin, TX"
+199000,Zillow,Remote
+110000,"Foundation Finance Company, LLC","Rothschild, WI"
+90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+80000,Equity Solar,Puerto Rico
+170000,Waymo,Remote
+200000,Samsung Electronics,"Mountain View, CA"
+124000,Cisco Systems,"San Jose, CA"
+135000,Ema,"San Francisco, CA"
+165000,Philip Morris International,"Stamford, CT"
+106000,Point72,"Stamford, CT"
+184000,TikTok,"Seattle, WA"
+154000,Morgan Stanley,United States
+137000,Motional,"Pittsburgh, PA"
+218000,Coinbase,Remote
+118000,Chewy,"Boston, MA"
+109000,GATEKEEPER SYSTEMS,"Foothill Ranch, CA"
+103000,Deloitte,"Baltimore, MD"
+85000,BELVA,Remote
+120000,Tesla,"Palo Alto, CA"
+70000,Emory University,"Atlanta, GA"
+85000,PayPal,"New York, NY"
+143000,Annapurna Labs (U.S.) Inc.,"Austin, TX"
+142000,Lyra Health,Remote
+81000,The University of Chicago,"Chicago, IL"
+103000,McKinstry,"San Francisco, CA"
+111000,Tesla,"Palo Alto, CA"
+110000,Arena BioWorks,"Cambridge, MA"
+160000,Moveworks.ai,"Mountain View, CA"
+106000,Realign LLC,"Malvern, PA"
+194000,Splunk,United States
+170000,Reli Group Inc,"Catonsville, MD"
+95000,Ultima Health Products,Remote
+200000,Angi,"Denver, CO"
+162000,Adobe,"San Jose, CA"
+286000,WSSC Water,"Laurel, MD"
+86000,The Data Sherpas,"New York, NY"
+133000,Takeda Pharmaceutical,"Lexington, MA"
+150000,Radar,"New York, NY"
+70000,ONYX Insight,"Boulder, CO"
+90000,Guardian RFID,"Maple Grove, MN"
+114000,Occidental Petroleum Corporation,"Houston, TX"
+232000,EarnIn,"Mountain View, CA"
+97000,"Mercury Insurance Services, LLC",United States
+150000,Cognizant,"Dallas, TX"
+158000,Next Insurance,"Waltham, MA"
+102000,Zeitview,"San Antonio, TX"
+100000,P3 Adaptive,Remote
+100000,Parallel Domain,"Karlsruhe, ND"
+83200,DataAnnotation,"Centennial, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Thornton, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Denver, CO"
+41600,JobPrepped,United States
+83200,DataAnnotation,"Sparks, NV"
+104000,Steyer,Remote
+83200,DataAnnotation,"Greensboro, NC"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"Westminster, CO"
+83200,DataAnnotation,"Erie, PA"
+83200,DataAnnotation,"Centennial, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Thornton, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Denver, CO"
+41600,JobPrepped,United States
+83200,DataAnnotation,"Sparks, NV"
+104000,Steyer,Remote
+83200,DataAnnotation,"Greensboro, NC"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"Westminster, CO"
+83200,DataAnnotation,"Erie, PA"
+83200,DataAnnotation,"Centennial, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Thornton, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Denver, CO"
+41600,JobPrepped,United States
+83200,DataAnnotation,"Sparks, NV"
+104000,Steyer,Remote
+83200,DataAnnotation,"Greensboro, NC"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"Westminster, CO"
+83200,DataAnnotation,"Erie, PA"
+83200,DataAnnotation,"Centennial, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Thornton, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Denver, CO"
+41600,JobPrepped,United States
+83200,DataAnnotation,"Sparks, NV"
+104000,Steyer,Remote
+83200,DataAnnotation,"Greensboro, NC"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"Westminster, CO"
+83200,DataAnnotation,"Erie, PA"
+83200,DataAnnotation,"Centennial, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Thornton, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Naperville, IL"
+83200,DataAnnotation,"Denver, CO"
+41600,JobPrepped,United States
+83200,DataAnnotation,"Sparks, NV"
+104000,Steyer,Remote
+83200,DataAnnotation,"Greensboro, NC"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"Westminster, CO"
+83200,DataAnnotation,"Erie, PA"
 54557,US Government,Multiple Locations
 47813,US Government,May be filled in various FAA duty locations
 47813,US Government,May be filled in various FAA duty locations
 31083,US Government,May be filled in various FAA duty locations
-83047,US Government,"Kings Point, New York Kings Point, New York"
+83047,US Government,"Kings Point, New York"
 62107,US Government,Multiple Locations
 47813,US Government,May be filled in various FAA duty locations
 47813,US Government,May be filled in various FAA duty locations
@@ -298,275 +661,1585 @@ salary,company,location
 31083,US Government,May be filled in various FAA duty locations
 62107,US Government,Multiple Locations
 68863,US Government,May be filled in various FAA duty locations
-121000,FRONTGRADE TECHNOLOGIES,Remote
-115000,The Hartford,"Hartford, CT"
-84000,Pros.,"Houston, TX"
-82000,SWIFT Financial Messaging Services,"Manassas, VA"
-75000,Kyndryl,"Phoenix, AZ"
-64000,UNCOMN,Remote
-70000,Foot Locker,"Irving, TX"
-90000,The Hartford,"Hartford, CT"
-53000,"Spark Change, LLC","Mission, KS"
-90000,UFA Inc,"Burlington, MA"
-68000,Metrohm Raman,"Laramie, WY"
-125000,True Manufacturing,"O Fallon, MO"
-131000,Disney,"Emeryville, CA"
-47000,Green Source Automation,"Jerome, ID"
-85000,Community Health Accreditation Partner,Arizona
-72000,Medtronic,"Minneapolis, MN"
 130000,Clera AI,"San Francisco, CA"
-67000,ADC LTD NM,Remote
-120000,WEX Inc.,Remote
-126000,Aurora Innovation,"Pittsburgh, PA"
-56000,JT4,"Las Vegas, NV"
-140000,Muck Rack,Remote
+90000,In-Depth Engineering Corporation,"Liverpool, NY"
+150000,OneImaging,Remote
 110000,Valve Software,"Bellevue, WA"
-80000,SeeScan Inc.,"San Diego, CA"
-126000,The Hartford,"Chicago, IL"
-67000,TD Bank,"Mount Laurel, NJ"
-97000,Allied Solutions,"Carmel, IN"
-120000,SeeScan Inc.,"San Diego, CA"
-85000,ASP,"Pennsauken, NJ"
-73000,Astrion,"Wright Patterson AFB, OH"
-90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
-150000,"The Travelers Companies, Inc.","Atlanta, GA"
-158000,Expedia Group,"Chicago, IL"
-55000,Arbin Instruments Inc,"College Station, TX"
-90000,Bankers' Bank of the West,"Denver, CO"
-119000,3M,"Maplewood, MN"
-59000,VSP Global,California
-80000,GCTS Testing Systems,"Tempe, AZ"
-77000,Nautilus Hyosung America Inc,"Miamisburg, OH"
-61000,EnergyCAP,"Boalsburg, PA"
-133000,Macquarie Group Limited,"Philadelphia, PA"
-80000,"KorTerra, Inc.","Chanhassen, MN"
-45000,Patient First,"Glen Allen, VA"
-106000,Aiphone,"Redmond, WA"
-83000,Fidelity TalentSource,"Westlake, TX"
-100000,OSI VISION LLC,United States
-92000,"Akina, Inc.","Annapolis Junction, MD"
-88000,"Garmin International, Inc.","Olathe, KS"
-150000,"TechniPower, Inc.","San Jose, CA"
-95000,All-Phase Electric,"Yakima, WA"
-98000,Applied Concepts,"Richardson, TX"
-135000,"Creative Digital Systems Integration, Inc.","Simi Valley, CA"
-126000,Disney Entertainment & ESPN Technology,"San Francisco, CA"
-90000,Nexio,"Orem, UT"
-81000,Illumina,"San Diego, CA"
-83000,NIKE,"Beaverton, OR"
-71000,NICE,"Sandy, UT"
-84000,Regions,"Nashville, TN"
-63000,EnergyCAP,"Boalsburg, PA"
-75000,Relative Dynamics,"Greenbelt, MD"
-79000,Bell Textron Inc.,"Fort Worth, TX"
-69000,i3 Verticals,"Temple, GA"
-60000,Vision Technology Inc,"Montgomery, AL"
-83000,Honeywell,"Richmond, VA"
-70000,"VOCAL Technologies, Ltd.","Buffalo, NY"
-70000,Marq Packaging,"Yakima, WA"
-90000,Healthmark Group,Texas
-115000,Affirm,Remote
-57000,Independent Stave Company / Alabama Cooperage,"Trinity, AL"
-143000,Salesforce,"Denver, CO"
-126000,INTEL,"Hillsboro, OR"
-85000,"VIZIO, Inc.","Dallas, TX"
-72000,"VIZIO, Inc.","Dallas, TX"
-96000,Jerry,"Ontario, CA"
-90000,Rapid Response Monitoring,"Syracuse, NY"
-90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
-75000,ASML,"San Diego, CA"
-103000,"Modern Technology Solutions, Inc.","Wright Patterson AFB, OH"
-84000,"Guidewire Software, Inc.","Bedford, MA"
-65000,DRT LLC,"Carter Lake, IA"
-85000,JPMorganChase,"Plano, TX"
-130000,"Vuori, Inc","Carlsbad, CA"
-68000,METER Group,"Pullman, WA"
-70000,Thomson Reuters,"Ann Arbor, MI"
-95000,The American Kennel Club Inc,"Raleigh, NC"
-63000,Vertafore,"East Lansing, MI"
-86000,Hi Marley,"Boston, MA"
-65000,Radian,"Franklin, TN"
-81000,Solarity,"Sioux Falls, SD"
-150000,dYdX,"New York, NY"
-85000,Abbott Laboratories,"Fairfield, CA"
-74000,Medtronic,"Minneapolis, MN"
-122000,GE HEALTHCARE,"Bellevue, WA"
-114000,The Hartford,"Hartford, CT"
-99000,WALGREENS,"Deerfield, IL"
-110000,GigaML,"San Francisco, CA"
-127000,General Dynamics Information Technology,"Tampa, FL"
-120000,Zebra Technologies,"Lincolnshire, IL"
-100000,SeeScan Inc.,"San Diego, CA"
-146000,ASML,"San Jose, CA"
-109000,Northwestern Mutual,"Milwaukee, WI"
-85000,Talcott Financial Group,"Hartford, CT"
-50000,Property Matrix,"Culver City, CA"
+81000,Altitude AI,"Salt Lake City, UT"
+57000,EAB,Remote
+74000,Fusion Health,"Topeka, KS"
 120000,Gallup,"Omaha, NE"
-79000,Morningstar,"Chicago, IL"
-136000,"The Travelers Companies, Inc.","Atlanta, GA"
-154000,Freddie Mac,"McLean, VA"
-90000,Carepoint Healthcare LLC,"Schaumburg, IL"
-125000,Verily,"Boston, MA"
-88000,"LOG-NET, Inc.","Tinton Falls, NJ"
-98000,Microsoft,"Redmond, WA"
-88000,"Contemporary Control Systems, Inc.","Downers Grove, IL"
-135000,Ceresti Health,"Norwell, MA"
-110000,Autonodyne LLC,"Boston, MA"
-129000,DocuSign,"Chicago, IL"
-75000,Tabletop Tycoon,"Londonderry, NH"
-110000,Logical Position Llc,"Las Vegas, NV"
-75000,Lowe's,"Charlotte, NC"
-119000,FLASH Technology Group,"Annapolis Junction, MD"
-147000,Redfin,"Seattle, WA"
-75000,MiCROTEC INC,"Corvallis, OR"
-95000,Career Vest,"Ohio, IL"
-121000,Uline,"Pleasant Prairie, WI"
-120000,Flashlight Learning,United States
-140000,B.E.A.T. LLC,Remote
-77000,GreenXT,"Philadelphia, PA"
-54000,Bill Austin and Associates,"Columbus, IN"
-65000,Force America,"Meridian, ID"
-106000,"ADS, Inc","San Francisco, CA"
-71000,Tyler Technologies,"Yarmouth, ME"
-71000,FAC Services,"Madison, WI"
-111000,Uline,"Pleasant Prairie, WI"
-144000,Fidelity Investments,"Boston, MA"
-107000,Hanford Mission Integration Solutions,"Richland, WA"
-85000,DFW International Airport,Dallas-Fort Worth
-99000,WALGREENS,"Deerfield, IL"
-116000,The Hartford,"Hartford, CT"
-88000,Thomson Reuters,"Ann Arbor, MI"
-120000,McKesson,"San Francisco, CA"
-102000,FanDuel,"Jersey City, NJ"
-94000,Northwestern Mutual,"Milwaukee, WI"
-64000,Orbis,"McLean, VA"
-145000,Havi Supply Chain,"Chicago, IL"
-83000,Subaru of America,"Camden, NJ"
-88000,SnugZ USA,"West Jordan, UT"
-110000,Ikigai Labs,"Cambridge, MA"
-85000,Teklead Corp,"Albuquerque, NM"
-103000,M&T Bank,"Wilmington, DE"
-68000,General Motors,"Milford, MI"
-125000,KorTerra Inc,"Chanhassen, MN"
-97000,Info Image,"Brisbane, CA"
-113000,Adobe,"Lehi, UT"
-78000,"Insperity Support Services, L.P.","Kingwood, TX"
-96000,INTEL,"Santa Clara, CA"
-98000,Microsoft,"Redmond, WA"
-120000,Evolent Health,Remote
-115000,Medline Industries,"Northfield, IL"
-85000,Apollo Technology Solutions LLC,"Chesterfield, VA"
-55000,Corrections Software Solutions,"Austin, TX"
-96000,"The Travelers Companies, Inc.","Hartford, CT"
-100000,Lumafield,"San Francisco, CA"
-69000,Aristocrat,"Franklin, TN"
-96000,"Draeger Medical Systems, Inc.","Andover, MA"
-80000,SLPT Global Pump Group,"Warren, MI"
-150000,Sydecar,"San Francisco, CA"
-66000,General Motors,"Milford, MI"
-142000,ASML,"San Diego, CA"
-105000,"Amazon Development Center U.S., Inc.","Seattle, WA"
-70000,The Personal Injury Hub,"Miami, FL"
-90000,KorTerra Inc,"Chanhassen, MN"
-69000,CBRE,"Decatur, AL"
-98000,Microsoft,"Redmond, WA"
-142000,T. Rowe Price,"Owings Mills, MD"
-90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
-50000,AMBOTS Inc.,"Fayetteville, AR"
-100000,RTL Networks,Remote
-95000,Medtronic,"Minneapolis, MN"
-145000,Disney,"Emeryville, CA"
-110000,MN Cannabis Staffing,"Minneapolis, MN"
-120000,"Cambridge Investment Research, Inc.","Phoenix, AZ"
-71000,SPECTRUM,"Greenwood Village, CO"
-94000,Truist Bank,"Atlanta, GA"
-78000,"AstroNova, Inc.","Warwick, RI"
-91000,HNTB Corporation,"Chicago, IL"
-123000,General Motors,"Austin, TX"
-63000,Infinite Campus,"Minneapolis, MN"
-90000,Harland Medical Systems,"Eden Prairie, MN"
-111000,General Dynamics Information Technology,"Macdill AFB, FL"
 142000,Nintendo,"Redmond, WA"
-78000,"Dot Foods, Inc.","Mount Sterling, IL"
-100000,Harry and David,"Melrose Park, IL"
-86000,Harris Computer Systems,"Blair, NE"
-115000,WALGREENS,"Deerfield, IL"
-133000,JPMorganChase,"Newport Beach, CA"
-103000,Fidelity TalentSource,"Durham, NC"
-87000,CSL Behring,"Bradley, IL"
-54000,TMP Worldwide India Private Limited for ERS US,"Alameda, CA"
+78000,Workiva,Remote
+105000,Cloud Campaign,"Boulder, CO"
+55000,Arbin Instruments Inc,"College Station, TX"
+86000,American Airlines,"Dallas, TX"
+69000,NIKE,"Beaverton, OR"
+115000,Affirm,Remote
+115000,Disney Entertainment,"Glendale, CA"
+89000,Saia Inc,"Johns Creek, GA"
+80000,KorTerra Inc,"Chanhassen, MN"
+145000,Havi Supply Chain,"Chicago, IL"
+85000,Braintree,"Austin, TX"
+152000,NetApp,Remote
+90000,KorTerra Inc,"Chanhassen, MN"
+98000,SmartAsset,"New York, NY"
+72000,Sol-Ark,"Allen, TX"
+126000,Aurora Innovation,"Pittsburgh, PA"
+86000,CAPITAL CENTER LLC,"Glen Allen, VA"
+65000,TipHaus,Remote
+63000,EAB,Remote
+90000,Hewlett Packard Enterprise,"Fort Collins, CO"
+120000,Evolent Health,Remote
+83000,NIKE,"Beaverton, OR"
+80000,Tyler Technologies,"Orono, ME"
+143000,Salesforce,"Denver, CO"
+128000,Leonardo DRS,"Beavercreek, OH"
+131000,Disney,"Emeryville, CA"
+110000,Patch My PC,Remote
+100000,Frontline Wildfire Defense,California
+213000,Meta,Remote
+139000,Hashicorp,Remote
+135000,Candid Health,Remote
+100000,Netflix,Remote
+92000,Autodesk,Michigan
+65000,CONVERSE,"Atlanta, GA"
+125000,True Manufacturing,"O Fallon, MO"
+99000,SPECTRUM,"Greenwood Village, CO"
+71000,Everblue,"Davidson, NC"
 121000,Uline,"Pleasant Prairie, WI"
-96000,La Mesa Rv Inc,"Phoenix, AZ"
-86000,Minitab,"State College, PA"
-44000,Partners Health Management,"Winston-Salem, NC"
-68000,METER Group,"Pullman, WA"
-98000,Microsoft,"Redmond, WA"
-100000,Nexio,"Orem, UT"
-84000,Next code placement,"California City, CA"
-79000,Mikron Holding AG,"Denver, CO"
-115000,Guardant Health,"Palo Alto, CA"
-95000,Srinav,"Fremont, CA"
-120000,Attain Partners,"Annapolis, MD"
-70000,Amex,"Phoenix, AZ"
-65000,FLYMOTION,"Tampa, FL"
-124000,ROHDE & SCHWARZ GmbH & Co. KG,"Hillsboro, OR"
-100000,ALTEN Technology USA,"Waukesha, WI"
-80000,Internet Archive,United States
-175000,Black Eagle Defense,"Fort Meade, MD"
-106000,Mastercard,"Arlington, VA"
-85000,"Falconwood, Inc.","Norfolk, VA"
-112000,"Wisenbaker Builder Services, Inc.","Houston, TX"
-82000,"Amazon Development Center U.S., Inc.","Denver, CO"
-125000,Disney Experiences,"Celebration, FL"
-96000,"The Travelers Companies, Inc.","Hartford, CT"
-185000,Redpanda Data,Remote
-50000,"IES Systems, Inc.","Canfield, OH"
-83000,PREMIER Bankcard,"Sioux Falls, SD"
-93000,Adobe,"Lehi, UT"
-167000,Uber,"Sunnyvale, CA"
-81000,"Gateway Apps, LLC","Jonesboro, AR"
-89000,Metron,"Manassas, VA"
-152000,m9,"San Francisco, CA"
-85000,Arkham Technology Ltd.,"Layton, UT"
-130000,Quantum Systems Inc,"Moorpark, CA"
-66000,Raytheon,"Aurora, CO"
-90000,Integrated Biometrics,"Chandler, AZ"
-75000,CACI,"Fairfax, VA"
-135000,Arch Capital Group Ltd.,"White Plains, NY"
-116000,Wells Fargo,"Westlake, TX"
-79000,Metron,"Laurel, MD"
-136000,General Motors,"Warren, MI"
-94000,Dematic Corp.,"Wauwatosa, WI"
-79000,NV Energy,"Las Vegas, NV"
-88000,In-Depth Engineering Corporation,"Manassas, VA"
-120000,Medtronic,"Minneapolis, MN"
-58000,SD WHEEL CORP,"Wrightstown, WI"
-85000,NetBrain,"Burlington, MA"
-116000,IXL Learning,"San Mateo, CA"
-80000,Uline,"Pleasant Prairie, WI"
-104000,CDC Foundation,Kentucky
-96000,INTEL,"Santa Clara, CA"
-133000,INTEL,"Hillsboro, OR"
-92000,Hyundai Autoever America,"Costa Mesa, CA"
-74000,Akima,"Herndon, VA"
-145000,Disney,"Emeryville, CA"
-140000,Accrete,"New York, NY"
-95000,"Tosh, Inc.","Provo, UT"
+125000,Company Sage,"San Juan, PR"
+68000,Cincinnati Incorporated,"Harrison, OH"
 75000,Lowe's,"Charlotte, NC"
-60000,Cobbs Creek Healthcare,"Newtown Square, PA"
-91000,JT4,"North Las Vegas, NV"
-91000,Dexcom,"San Diego, CA"
-101000,Leonardo DRS,"Beavercreek, OH"
-170000,Waymo,"Mountain View, CA"
-130000,Datadog,"Boston, MA"
+129000,LiveRamp,"New York, NY"
+140000,Assort Health,"San Francisco, CA"
+126000,Spotify,"New York, NY"
+116000,Freddie Mac,"Dallas, TX"
+110000,Bellwood,"Atlanta, GA"
+80000,"Anatomage, Inc.","Santa Clara, CA"
+60000,Gain America Inc,"Hicksville, NY"
+134000,"Security Innovation, Inc.",Remote
+122000,Redfin,"Seattle, WA"
+71000,NICE,"Sandy, UT"
+142000,MORSE Corp,"Cambridge, MA"
+62000,"Innovation Associates, Inc.","Binghamton, NY"
+147000,Redfin,"Seattle, WA"
+73000,Karich & Associates,"Huntington Beach, CA"
+105000,eHealth,Remote
+80000,"Genscape, Inc.","Boston, MA"
+85000,Veeva Systems,"San Luis Obispo, CA"
+111000,Trissential,"Rochester, MN"
+76000,Two Six Technologies,"Herndon, VA"
+125000,Surf or Sound Realty,"Salvo, NC"
+115000,Kohler,"New York, NY"
+151000,f5,"Seattle, WA"
+80000,Cornell Pump Company,"Clackamas, OR"
+91000,ADVICS,"Plymouth, MI"
+94000,Paycom Payroll Llc,"Oklahoma City, OK"
+72000,CVS Health,"Austin, TX"
+120000,DraftKings,Remote
+79000,Morningstar,"Chicago, IL"
+150000,dYdX,"New York, NY"
+117000,Splunk,"Seattle, WA"
+104000,Liberty Mutual,"Indianapolis, IN"
+47000,Embrace Education,"Troy, IL"
+122000,Veeco,"Plainview, NY"
+80000,Uline,"Pleasant Prairie, WI"
+65000,CVS Health,"Columbus, OH"
+85000,Leidos,"Lawton, OK"
+65000,Alexandria Insights,"Stafford, VA"
+145000,Latham & Watkins LLP,"Los Angeles, CA"
+175000,Black Eagle Defense,"Fort Meade, MD"
+105000,Costco Wholesale,"Seattle, WA"
+100000,Touchstone IQ,"Denver, CO"
+85000,Isaacson Foundation,"Gallatin, TN"
+75000,"Culver Franchising System, LLC","Prairie du Sac, WI"
+140000,B.E.A.T. LLC,Remote
+72000,Medtronic,"Minneapolis, MN"
+99000,TMNA Services LLC,Remote
+80000,CSL Behring,"Bradley, IL"
+66000,123NET,"Southfield, MI"
+98000,T. Rowe Price,"Owings Mills, MD"
+92000,"Akina, Inc.","Annapolis Junction, MD"
+150000,Sydecar,"San Francisco, CA"
+100000,Zachary Piper LLC,Remote
+80000,SEI1GLOBAL,"Chicago, IL"
+63000,EAB,"Richmond, VA"
+175000,Black Eagle Defense,"Fort Meade, MD"
+80000,"KorTerra, Inc.","Chanhassen, MN"
+80000,Honda Racing Corporation,"Santa Clarita, CA"
+140000,Gocool Inc,"Trout Lake, WA"
+86000,Harris Computer Systems,"Blair, NE"
+120000,SeeScan Inc.,"San Diego, CA"
+69000,Plexus,"Neenah, WI"
+119000,FLASH Technology Group,"Annapolis Junction, MD"
+80000,Zachary Piper LLC,Remote
+94000,JPMorganChase,"Plano, TX"
+125000,Confidential - to be discussed during interview,"Austin, TX"
+90000,Wide Eye,Remote
+70000,Hewlett Packard Enterprise,"Roseville, CA"
+123000,Prestige Financial Services,"Draper, UT"
+99000,WALGREENS,"Deerfield, IL"
+85000,Apollo Technology Solutions LLC,"Chesterfield, VA"
+73000,Astrion,"Wright Patterson AFB, OH"
+85000,Leidos,"Lawton, OK"
+200000,RCT Systems,"Chantilly, VA"
+70000,Quick Quack Car Wash,California
+70000,Infinite Campus,"Minneapolis, MN"
+116000,BAE Systems,"Broomfield, CO"
+86000,UKG,"Santa Ana, CA"
+91000,Committed Coaches,Remote
+81000,Delta Dental,"Alpharetta, GA"
+89000,General Motors,"Warren, MI"
+61000,EnergyCAP,"Boalsburg, PA"
+111000,Federal Reserve Bank of Chicago,"Chicago, IL"
+156000,Ambient.ai,"San Francisco, CA"
+80000,University of Utah,"Salt Lake City, UT"
+110000,Alvaka Networks,"Irvine, CA"
+115000,SEI1GLOBAL,"Oaks, PA"
+170000,Lambda,"San Francisco, CA"
+90000,Nexio,"Orem, UT"
+140000,Accrete,"New York, NY"
+80000,Internet Archive,United States
+175000,Point72,"Stamford, NY"
+80000,West Coast Wound & Skin Care,"Burbank, CA"
+96000,La Mesa Rv Inc,"Phoenix, AZ"
+68000,Capstone Research Corporation,"Huntsville, AL"
+69000,i3 Verticals,"Temple, GA"
+121000,Uline,"Pleasant Prairie, WI"
+146000,Lucid Motors,"Newark, CA"
+100000,Peak6,"Dallas, TX"
+88000,In-Depth Engineering Corporation,"Manassas, VA"
+78000,LG Ads Solutions,"Denver, CO"
+99000,NIKE,"Beaverton, OR"
+50000,The Swift Group,"Reston, VA"
+100000,Sarepta Therapeutics,"Cambridge, MA"
+126000,Disney Entertainment,"San Francisco, CA"
+145000,Disney,"Emeryville, CA"
+100000,Scanbuy,"New York, NY"
+124000,The Trade Desk,"New York, NY"
+71000,Peterson Technologies,"Annapolis Junction, MD"
+167000,Uber,"Sunnyvale, CA"
+135000,"Creative Digital Systems Integration, Inc.","Simi Valley, CA"
+113000,Adobe,"Lehi, UT"
+122000,GE HEALTHCARE,"Bellevue, WA"
+97000,Allied Solutions,"Carmel, IN"
+66000,General Motors,"Milford, MI"
+106000,"ADS, Inc","San Francisco, CA"
+55000,Honeywell,"Mason, OH"
+94000,General Motors,"Milford, MI"
+54000,TMP Worldwide India Private Limited for ERS US,"Alameda, CA"
+106000,AIPHONE CORPORATION,"Redmond, WA"
+96000,Fidelity TalentSource,"Westlake, TX"
+108000,Remitly,"Seattle, WA"
+119000,3M,"Maplewood, MN"
+101000,BlueHalo LLC,"Annapolis Junction, MD"
+76000,Adobe,"New York, NY"
+54000,Bill Austin and Associates,"Columbus, IN"
+85000,Fidelity TalentSource,"Westlake, TX"
+80000,PG Golf LLC,"Sugar Land, TX"
+139000,GAMA-1 Technologies,Remote
+131000,NetApp,Remote
+115000,Mastercard,"O Fallon, MO"
+89000,Aaon Inc,"Parkville, MO"
+145000,Disney,"Emeryville, CA"
+116000,Qualtrics,"Seattle, WA"
+75000,BMW,"Spartanburg, SC"
+80000,Cornell Pump Company LLC,"Clackamas, OR"
+85000,NetBrain,"Burlington, MA"
+90000,"Interclypse, Inc.","Aurora, CO"
+92000,General Motors,"Concord, NC"
+100000,Home Depot / THD,"Austin, TX"
+82000,Microsoft,United States
+65000,Green Thumb Systems LLC,"Sterling, VA"
+119000,JPMorganChase,"Jersey City, NJ"
+95000,"Tosh, Inc.","Provo, UT"
+189000,Chime,"New York, NY"
+119000,JPMorganChase,"Jersey City, NJ"
+101000,Memorial Sloan Kettering Cancer Center,"New York, NY"
+95000,"Technology, Automation, and Management, Inc.","Huntsville, AL"
+140000,Dreamscape Learn,"Los Angeles, CA"
+140000,Pryon,"San Francisco, CA"
+99000,Escher Group,"Boston, MA"
+125000,Laerdal Labs DC Inc,"Washington, DC"
+105000,Fletcher Jones Management Group,"Las Vegas, NV"
+82000,Microsoft,"Charlotte, NC"
+135000,Arch Capital Group Ltd.,"White Plains, NY"
+76000,NIKE,"Beaverton, OR"
+74000,Medtronic,"Los Angeles, CA"
+130000,Quantum Systems Inc,"Moorpark, CA"
+115000,Medline Industries,"Northfield, IL"
+120000,Kudu Dynamics LLC,"Chantilly, VA"
+105000,Costco Wholesale,"Seattle, WA"
+85000,Smartrise Engineering,"Irving, TX"
+71000,PRO IT USA,"Seattle, WA"
+110000,O'Reilly Automotive Stores,"Rolla, MO"
+110000,O'Reilly Automotive Stores,"Rolla, MO"
+126000,Fidelity TalentSource,"Boston, MA"
+78000,Cummings Aerospace Inc,"Largo, FL"
+80000,SAM Technologies,"Sacramento, CA"
+125000,John Deere,"East Moline, IL"
+71000,Peterson Technologies,"Annapolis Junction, MD"
+135000,Brigit,"New York, NY"
+167000,Uber,"Sunnyvale, CA"
+74000,NICE Systems,"Sandy, UT"
+75000,E2i Inc.,"Indianapolis, IN"
+114000,Oracle,"Reston, VA"
+90000,WalkMe,"New York, NY"
+114000,JPMorganChase,"Chicago, IL"
+100000,Neptune Technology Group Inc.,"Duluth, GA"
+85000,DFW International Airport,Dallas-Fort Worth
+79000,SPECTRUM,"Greenwood Village, CO"
+85000,HDR CONSULTING LLC DBA ENNOVARA,"Las Vegas, NV"
+107000,Hanford Mission Integration Solutions,"Richland, WA"
+80000,CoBank,"Greenwood Village, CO"
+75000,Lowe's,"Charlotte, NC"
+120000,"Opaque Systems, Inc.",Remote
+95000,JRM Technologies,"Fredericksburg, VA"
+129000,Amazon.com Services LLC,"Bellevue, WA"
+103000,Comtech Telecommunications Corp.,"Chandler, AZ"
+85000,DonorView,"Marlborough, MA"
+56000,JT4,"Las Vegas, NV"
+65000,"IMA Schelling Group, USA","Morrisville, NC"
+101000,"RE/MAX, LLC",Remote
+115000,Fresenius Kabi,"North Andover, MA"
+140000,Statsig,"Bellevue, WA"
 93000,Adobe,"Waltham, MA"
-74000,Deligent,"Irving, TX"
-59000,Leonardo DRS,"Bridgeton, MO"
-75000,Expo Experts,"Boston, MA"
-75000,Mikron Corporation Denver,"Englewood, CO"
-101000,Cyberark,"Santa Clara, CA"
-76000,Adobe,"San Jose, CA"
-115000,The MIL Corporation,"Lexington Park, MD"
-93000,Futurex,"Bulverde, TX"
-85000,Edwards Lifesciences,"Naperville, IL"
-129000,Zelis,Galaxy
+112000,"Advanced Micro Devices, Inc","Boxborough, MA"
+85000,The Phased Array Company,"West Chester, OH"
+80000,Election Systems & Software,"Omaha, NE"
+100000,"FuseMind, Inc.","Dallas, TX"
+103000,Freddie Mac,"McLean, VA"
+95000,"Zaden Technologies, Inc.","Washington, DC"
+116000,Rivian and VW Group Technology,"Palo Alto, CA"
+122000,Revenue Analytics,"Atlanta, GA"
+95000,ComTec Solutions LLC,"Rochester, NY"
+100000,Momentum3,"Tulsa, OK"
+74000,Akima,"Herndon, VA"
+113000,"Amplify Education, Inc.",Remote
+128000,WALGREENS,"Deerfield, IL"
+69000,General Motors,"Concord, NC"
+71000,CONAGRA,"Omaha, NE"
+117000,Fidelity TalentSource,"Westlake, TX"
+144000,QuinStreet,"Foster City, CA"
+96000,"The Travelers Companies, Inc.","Hartford, CT"
+133000,Macquarie Group Limited,"Philadelphia, PA"
+114000,"T-Mobile USA, Inc.","Bellevue, WA"
+90000,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
+62000,Industrial Scientific,"Pittsburgh, PA"
+170000,Waymo,"Mountain View, CA"
+152000,Coinbase,Remote
+75000,RTD Embedded Technologies,"State College, PA"
+90000,Database Technology,Remote
+133000,PlayStation Global,"San Mateo, CA"
+82000,Raytheon,"State College, PA"
+140000,End Results LLC,Remote
+80000,AscendEX,"New York, NY"
+100000,Confidential Company,"Carlsbad, CA"
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+145000,Havi Supply Chain,"Chicago, IL"
+103000,JT4,"Las Vegas, NV"
+103000,Aeroflow Healthcare,North Carolina
+83200,DataAnnotation,"Laredo, TX"
+141440,TechEnrich LLC,"Boise, ID"
+896000,Allied Solutions,"Carmel, IN"
+83200,DataAnnotation,"Arvada, CO"
+52000,Hurix Digital,Remote
+768000,Farm Credit Financial Partners,"Springfield, MA"
+83200,DataAnnotation,"Champaign, IL"
+156000,"Stefanini, Inc","Dearborn, MI"
+100000,Netflix,Remote
+145600,Optofidelity,Remote
+876000,Visa,"Austin, TX"
+102000,Service Management Group (SMG),Remote
+166400,ALL-INONESOL,"Boston, MA"
+90000,In-Depth Engineering Corporation,"Mount Laurel, NJ"
+152619,Beacon Talent,"Irvine, CA"
+81120,Umanist Staffing,Washington State
+salary,company,location
+83200,DataAnnotation,"Savannah, GA"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+83200,DataAnnotation,"Denver, CO"
+114400,Sygna Solutions,"Austin, TX"
+855000,Jamco Excavators,"South Hampton, NH"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+99461,Federal Bureau of Investigation,United States
+83200,DataAnnotation,"Quincy, MA"
+83200,DataAnnotation,"Savannah, GA"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+83200,DataAnnotation,"Denver, CO"
+114400,Sygna Solutions,"Austin, TX"
+855000,Jamco Excavators,"South Hampton, NH"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+99461,Federal Bureau of Investigation,United States
+83200,DataAnnotation,"Quincy, MA"
+83200,DataAnnotation,"Savannah, GA"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+83200,DataAnnotation,"Denver, CO"
+114400,Sygna Solutions,"Austin, TX"
+855000,Jamco Excavators,"South Hampton, NH"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+99461,Federal Bureau of Investigation,United States
+83200,DataAnnotation,"Quincy, MA"
+83200,DataAnnotation,"Savannah, GA"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+83200,DataAnnotation,"Denver, CO"
+114400,Sygna Solutions,"Austin, TX"
+855000,Jamco Excavators,"South Hampton, NH"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+99461,Federal Bureau of Investigation,United States
+83200,DataAnnotation,"Quincy, MA"
+83200,DataAnnotation,"Savannah, GA"
+99461,Federal Bureau of Investigation,United States
+124800,SOKOL GxP Services,"New Brunswick, NJ"
+924000,New Light Technologies In,Remote
+59000,I-66 EXPRESS MOBILITY PARTNERS LLC,"Manassas, VA"
+83200,DataAnnotation,"Denver, CO"
+114400,Sygna Solutions,"Austin, TX"
+855000,Jamco Excavators,"South Hampton, NH"
+101000,Waste Connections,"The Woodlands, TX"
+96400,Glassdoor,Remote
+155300,Visa,"Foster City, CA"
+117000,The Columbia Group,"Washington, DC"
+50000,Netflix,"New York, NY"
+85300,"FreedomRoads, LLC",Texas
+99461,Federal Bureau of Investigation,United States
+83200,DataAnnotation,"Quincy, MA"
+41600,JobPrepped,United States
+83200,DataAnnotation,"Peoria, IL"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"El Paso, TX"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Fort Collins, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Little Rock, AR"
+83200,DataAnnotation,"Savannah, GA"
+437000,GameRant,Remote
+100000,Visionary Health,Remote
+83200,DataAnnotation,"Rochester, NY"
+41600,DataAnnotation,"Memphis, TN"
+83200,DataAnnotation,"Denver, CO"
+83200,DataAnnotation,"Champaign, IL"
+624000,"JuneBrain, Inc.",Remote
+41600,JobPrepped,United States
+83200,DataAnnotation,"Peoria, IL"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"El Paso, TX"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Fort Collins, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Little Rock, AR"
+83200,DataAnnotation,"Savannah, GA"
+437000,GameRant,Remote
+100000,Visionary Health,Remote
+83200,DataAnnotation,"Rochester, NY"
+41600,DataAnnotation,"Memphis, TN"
+83200,DataAnnotation,"Denver, CO"
+83200,DataAnnotation,"Champaign, IL"
+624000,"JuneBrain, Inc.",Remote
+41600,JobPrepped,United States
+83200,DataAnnotation,"Peoria, IL"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"El Paso, TX"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Fort Collins, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Little Rock, AR"
+83200,DataAnnotation,"Savannah, GA"
+437000,GameRant,Remote
+100000,Visionary Health,Remote
+83200,DataAnnotation,"Rochester, NY"
+41600,DataAnnotation,"Memphis, TN"
+83200,DataAnnotation,"Denver, CO"
+83200,DataAnnotation,"Champaign, IL"
+624000,"JuneBrain, Inc.",Remote
+41600,JobPrepped,United States
+83200,DataAnnotation,"Peoria, IL"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"El Paso, TX"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Fort Collins, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Little Rock, AR"
+83200,DataAnnotation,"Savannah, GA"
+437000,GameRant,Remote
+100000,Visionary Health,Remote
+83200,DataAnnotation,"Rochester, NY"
+41600,DataAnnotation,"Memphis, TN"
+83200,DataAnnotation,"Denver, CO"
+83200,DataAnnotation,"Champaign, IL"
+624000,"JuneBrain, Inc.",Remote
+41600,JobPrepped,United States
+83200,DataAnnotation,"Peoria, IL"
+31200,Pro Integrate Consulting,Remote
+83200,DataAnnotation,"El Paso, TX"
+83200,DataAnnotation,"Colorado Springs, CO"
+83200,DataAnnotation,"Fort Collins, CO"
+83200,DataAnnotation,"Champaign, IL"
+83200,DataAnnotation,"Little Rock, AR"
+83200,DataAnnotation,"Savannah, GA"
+437000,GameRant,Remote
+100000,Visionary Health,Remote
+83200,DataAnnotation,"Rochester, NY"
+41600,DataAnnotation,"Memphis, TN"
+83200,DataAnnotation,"Denver, CO"
+83200,DataAnnotation,"Champaign, IL"
+624000,"JuneBrain, Inc.",Remote
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+115000,Bell Textron Inc.,"Fort Worth, TX"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+115000,Bell Textron Inc.,"Fort Worth, TX"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+115000,Bell Textron Inc.,"Fort Worth, TX"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+115000,Bell Textron Inc.,"Fort Worth, TX"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+115000,Bell Textron Inc.,"Fort Worth, TX"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"
+115000,Bell Textron Inc.,"Fort Worth, TX"
+124000,Bell Textron Inc.,"Fort Worth, TX"
+896000,Allied Solutions,"Carmel, IN"
+878000,Amalgamated Sugar Company,"Paul, ID"
+83200,DataAnnotation,"Utica, NY"
+100000,Netflix,Remote
+83200,DataAnnotation,"Laredo, TX"
+103000,Aeroflow Healthcare,North Carolina
+165000,Parsons,"Annapolis Junction, MD"
+103000,JT4,"Las Vegas, NV"
+100000,Netflix,California
+83200,DataAnnotation,"Arvada, CO"
+141440,TechEnrich LLC,"Boise, ID"
+83200,DataAnnotation,"Syracuse, NY"
+83200,DataAnnotation,"Greensboro, NC"
+99445,Blue Origin,"Seattle, WA"
+100000,Netflix,Remote
+83200,DataAnnotation,"Colorado Springs, CO"
+964000,Scismic,"Norton, VA"
+230000,Netflix,"Los Gatos, CA"

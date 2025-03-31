@@ -1,3 +1,6 @@
+
+import matplotlib.pyplot as plt
+import pandas as pdfrom
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -7,6 +10,7 @@ from sklearn.metrics import mean_squared_error
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import NoSuchElementException
 
 import time
 
@@ -25,6 +29,9 @@ URL_data_sci_glassdoor = "https://www.glassdoor.com/Job/jobs.htm?sc.keyword=data
 URL_ai_glassdoor = "https://www.glassdoor.com/Job/jobs.htm?sc.keyword=machine learning&locT=C&locName=New York"
 URL_data_sci_us_gov = "https://www.usajobs.gov/Search/Results?l=New%20York&k=data%20science&p=1"
 URL_soft_eng_us_gov = "https://www.usajobs.gov/Search/Results?l=New%20York&p=1&k=software%20engineer"
+URL_software_eng_sh = "https://www.simplyhired.com/search?q=software+engineer&l="
+URL_data_sci_sh = "https://www.simplyhired.com/search?q=data+science&l="
+URL_ai_sh = "https://www.simplyhired.com/search?q=artifical+intellgence&l="
 
 data_sci = []
 software_eng = []
@@ -77,6 +84,95 @@ def us_gov(driver, data):
         except:
             print('err us gov')
 
+def words_before_target(text, target):
+    words = text.split()
+    
+    if target in words:
+        index = words.index(target)
+        return " ".join(words[:index])
+    else:
+        return None
+
+
+
+def click_next_page(driver, button_num):
+    try:
+        n = str(button_num)
+        load_more_button = "a[aria-label='page ${n}']"
+        button = driver.find_element(By.CSS_SELECTOR, load_more_button)
+
+        if button is not None:
+            button.click()
+    except:
+       pass
+
+def simplyhired(driver, data):
+    elements = driver.find_elements(By.CSS_SELECTOR, ".css-obg9ou")
+
+    for e in elements:
+        try:
+            salary = 0
+            try:
+                salary = e.find_element(By.CSS_SELECTOR, "p[data-testid='searchSerpJobSalaryConfirmed']").text
+            except NoSuchElementException:
+                salary = e.find_element(By.CSS_SELECTOR, "p[data-testid='searchSerpJobSalaryEst']").text
+
+            location = e.find_element(By.CSS_SELECTOR, "span[data-testid='searchSerpJobLocation']").text
+            company = e.find_element(By.CSS_SELECTOR, "span[data-testid='companyName']").text
+            
+            salary_int = 0
+
+            if "an hour" in salary:
+                salary = salary.replace("From ", "")
+                salary = salary.replace("an hour", "")
+                if "-" in salary:
+                     salary = words_before_target(salary, "-")
+                     
+                salary = salary.replace("$", "")
+                
+                # approx 2,080 working hours in an year
+                salary_int = int(salary) * 2080
+            elif "Estimated" in salary:
+                salary = salary.replace("Estimated:", "")
+                salary = salary.replace("a year", "")
+                
+                
+                salary_a = words_before_target(salary, "K")
+
+                if salary_a is None:
+                    salary = words_before_target(salary, "-")
+                else:
+                    salary = salary_a
+
+                salary = salary.replace("$", "")
+                salary = salary.replace(".", "")
+                salary = salary.replace("K", "")
+
+                try:
+                    salary_int = int(salary)
+                except ValueError:
+                    salary_int = int(float(salary))
+
+                salary_int = salary_int * 1000
+            else:
+                salary = salary.replace("a year", "")
+                salary_a = words_before_target(salary, "K")
+                if salary_a is None:
+                    salary = words_before_target(salary, "-")
+                else:
+                    salary = salary_a
+                salary = salary.replace("$", "")
+                salary = salary.replace(",", "")
+                                
+                try:
+                    salary_int = int(salary)
+                except ValueError:
+                    salary_int = int(float(salary))
+
+            data.append([salary_int, company, location])
+        except:
+            print("simply hired")
+
 # for us gov jobs
 driver = get_driver()
 driver.get(URL_data_sci_us_gov)
@@ -102,6 +198,37 @@ driver.quit()
 driver = get_driver()
 driver.get(URL_ai_glassdoor)
 glassdoor(driver, ai)
+driver.quit()
+
+pages_sh = 5
+
+driver = get_driver()
+driver.get(URL_software_eng_sh)
+
+for i in range(0, 30):
+    simplyhired(driver, software_eng)
+    click_next_page(driver, i)
+
+driver.quit()
+
+print(software_eng)
+
+driver = get_driver()
+driver.get(URL_data_sci_sh)
+
+for i in range(0, pages_sh):    
+    simplyhired(driver, data_sci)
+    click_next_page(driver, i)
+
+driver.quit()
+
+driver = get_driver()
+driver.get(URL_ai_sh)
+
+for i in range(0, pages_sh):
+    simplyhired(driver, ai)
+    click_next_page(driver, i)
+
 driver.quit()
 
 data_col = ['salary','company','location']
